@@ -1,2 +1,2 @@
 # Population-Predictor
-![Dashboard Screenshot](Screensshot.png)
+![Dashboard Screenshot](Screenshot.png)
